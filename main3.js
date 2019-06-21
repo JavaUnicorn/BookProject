@@ -6,3 +6,104 @@ var ISTP = {title:"<h1>ISTP</h1>" ,book1:"<h3>The Dark Tower Series</h3>  <h4>by
 var ISFP = {title:"<h1>ISFP</h1>" ,book1:"<h3>Fairy Tales from the Brothers Grimm</h3>  <h4>by Philip Pullman (Editor),  Jacob Grimm, Wilhelm Grimm</h4>",book1des:"<p>From much-loved stories like “Cinderella” and “Rumpelstiltskin,” “Rapunzel” and “Hansel and Gretel” to lesser-known treasures like “Briar-Rose,” “Thousandfurs,” and “The Girl with No Hands,” Pullman retells his fifty favorites, paying homage to the tales that inspired his unique creative vision—and that continue to cast their spell on the Western imagination.</p><p>Review by GoodReads</p>",book1img:`<img src="Grimm.jpg" alt="">`,book2:"<h3>Bloodsucking Fiends Series</h3>  <h4>by Christopher Moore </h4>",book2des:"<p>Jody never asked to become a vampire. But when she wakes up under an alley dumpster with a badly burned arm, an aching neck, superhuman strength, and a distinctly Nosferatuan thirst, she realizes the decision has been made for her.</p><p>Making the transition from the nine-to-five grind to an eternity of nocturnal prowlings is going to take some doing, however, and that's where C. Thomas Flood fits in. A would-be Kerouac from Incontinence, Indiana, Tommy (to his friends) is biding his time night-clerking and frozen-turkey bowling in a San Francisco Safeway. But all that changes when a beautiful undead redhead walks through the door ... and proceeds to rock Tommy's life -- and afterlife -- in ways he never imagined possible.</p><p>Review by GoodReads</p>",book2img:`<img src="Blood.jpg" alt="">`,book3:"<h3>Libriomancer</h3>  <h4>by Jim C. Hines</h4>",book3des:"<p>Isaac Vainio is a Libriomancer, a member of the secret organization founded five centuries ago by Johannes Gutenberg. Libriomancers are gifted with the ability to magically reach into books and draw forth objects. When Isaac is attacked by vampires that leaked from the pages of books into our world, he barely manages to escape. To his horror he discovers that vampires have been attacking other magic-users as well, and Gutenberg has been kidnapped.</p><p>With the help of a motorcycle-riding dryad who packs a pair of oak cudgels, Isaac finds himself hunting the unknown dark power that has been manipulating humans and vampires alike. And his search will uncover dangerous secrets about Libriomancy, Gutenberg, and the history of magic. . .</p><p>Review by GoodReads</p>",book3img:`<img src="Librio.jpg" alt="">`,book4:"<h3>The Language of Flowers</h3>  <h4>by Vanessa Diffenbaugh</h4>",book4des:"<p>The Victorian language of flowers was used to convey romantic expressions: honeysuckle for devotion, asters for patience, and red roses for love. But for Victoria Jones, it's been more useful in communicating grief, mistrust, and solitude. After a childhood spent in the foster-care system, she is unable to get close to anybody, and her only connection to the world is through flowers and their meanings</p><p>Now eighteen and emancipated from the system, Victoria has nowhere to go and sleeps in a public park, where she plants a small garden of her own. Soon a local florist discovers her talents, and Victoria realizes she has a gift for helping others through the flowers she chooses for them. But a mysterious vendor at the flower market has her questioning what's been missing in her life, and when she's forced to confront a painful secret from her past, she must decide whether it's worth risking everything for a second chance at happiness.</p><p>Review by GoodReads</p>",book4img:`<img src="Flowers.webp" alt="">`,book5:"<h3>Wuthering Heights</h3>  <h4>by Emily Brontë</h4>",book5des:"<p>Published in 1847, the year before Emily Bronte’s death at the age of thirty, Wuthering Heights has proved to be one of the nineteenth century’s most popular yet disturbing masterpieces. The windswept moors are the unforgettable setting of this tale of the love between the foundling Heathcliff and his wealthy benefactor’s daughter, Catherine. Through Catherine’s betrayal of Heathcliff and his bitter vengeance, their mythic passion haunts the next generation even after their deaths. Incorporating elements of many genres—from gothic novels and ghost stories to poetic allegory—and transcending them all, Wuthering Heights is a mystifying and powerful tour de force.</p><p>Review by Penguin Random House</p>",book5img:`<img src="Hieghts.jpg" alt="">` };
 var INFP = {title:"<h1>INFP</h1>" ,book1:"<h3>Levels of Life</h3>  <h4>by Julian Barnes</h4>",book1des:"<p>Julian Barnes's new book is about ballooning, photography, love and grief; about putting two things, and two people, together, and about tearing them apart.</p><p>Review by GoodReads</p>",book1img:`<img src="Life.jpg" alt="">`,book2:"<h3>The Lord of the Rings Book Series</h3>  <h4>by J. R. R. Tolkien</h4>",book2des:`<p>The title of the novel refers to the story's main antagonist, the Dark Lord Sauron,[a] who had in an earlier age created the One Ring to rule the other Rings of Power as the ultimate weapon in his campaign to conquer and rule all of Middle-earth. From quiet beginnings in the Shire, a hobbit land not unlike the English countryside, the story ranges across Middle-earth, following the course of the War of the Ring through the eyes of its characters, not only the hobbits Frodo Baggins, Samwise "Sam" Gamgee, Meriadoc "Merry" Brandybuck and Peregrin "Pippin" Took, but also the hobbits' chief allies and travelling companions: the Men, Aragorn, a Ranger of the North, and Boromir, a Captain of Gondor; Gimli, a Dwarf warrior; Legolas, an Elven prince; and Gandalf, a wizard</p><p>Review by Wikipedia</p>`,book2img:`<img src="LordRings.jpg" alt="">`,book3:"<h3>Watership Down</h3>  <h4>by Richard Adams</h4>",book3des:"<p>Set in England's Downs, a once idyllic rural landscape, this stirring tale of adventure, courage and survival follows a band of very special creatures on their flight from the intrusion of man and the certain destruction of their home. Led by a stouthearted pair of friends, they journey forth from their native Sandleford Warren through the harrowing trials posed by predators and adversaries, to a mysterious promised land and a more perfect society.</p><p>Review by GoodReads</p>",book3img:`<img src="WaterShipDown.jpg" alt="">`,book4:"<h3>The Comprehensive INFP Survival Guide</h3>  <h4>by Heidi Priebe</h4>",book4des:"<p>Despite their agreeable demeanor, INFPs represent one of the most passionate and complex personality types within the Myers-Briggs Inventory</p><p>Review by GoogleBooks</p>",book4img:`<img src="INFP.jpg" alt="">`,book5:"<h3>The Chronicles of Narnia </h3>  <h4>by C. S. Lewis</h4>",book5des:`<p>It narrates the adventures of various children who play central roles in the unfolding history of the Narnian world. Except in The Horse and His Boy, the protagonists are all children from the real world who are magically transported to Narnia, where they are sometimes called upon by the lion Aslan to protect Narnia from evil. The books span the entire history of Narnia, from its creation in The Magician's Nephew to its eventual destruction in The Last Battle.</p><p>Review by GoodReads</p>`,book5img:`<img src="https://images-na.ssl-images-amazon.com/images/I/51xt5vB1JiL._SX294_BO1,204,203,200_.jpg" alt="">` };
 var INTP = {title:"<h1>INTP</h1>" ,book1:"<h3>The Spy Who Came In from the Cold</h3>  <h4>by John le Carré</h4>",book1des:"<p>When the last agent under his command is killed and Alec Leamas is called back to London, he hopes to come in from the cold for good. His spymaster, Control, however, has other plans. Determined to bring down the head of East German Intelligence and topple his organization, Control once more sends Leamas into the fray -- this time to play the part of the dishonored spy and lure the enemy to his ultimate defeat.</p><p>Review by GoodReads</p>",book1img:`<img src="TheSpy.jpg" alt="">`,book2:"<h3>Slaughterhouse-Five</h3>  <h4>by Kurt Vonnegut</h4>",book2des:"<p>Selected by the Modern Library as one of the 100 best novels of all time, Slaughterhouse-Five, an American classic, is one of the world's great antiwar books. Centering on the infamous firebombing of Dresden, Billy Pilgrim's odyssey through time reflects the mythic journey of our own fractured lives as we search for meaning in what we fear most.</p><p>Review by GoodReads</p>",book2img:`<img src="https://images.gr-assets.com/books/1440319389l/4981.jpg" alt="">`,book3:"<h3>Gulliver's Travels</h3>  <h4>by Jonathan Swift</h4>",book3des:"<p>Shipwrecked and cast adrift, Lemuel Gulliver wakes to find himself on Lilliput, an island inhabited by little people, whose height makes their quarrels over fashion and fame seem ridiculous. His subsequent encounters - with the crude giants of Brobdingnag, the philosophical Houyhnhnms and the brutish Yahoos - give Gulliver new, bitter insights into human behaviour. Swift's savage satire view mankind in a distorted hall of mirrors as a diminished, magnified and finally bestial species, presenting us with an uncompromising reflection of ourselves.</p><p>Review by GoodReads</p>",book3img:`<img src="Travels.jpg" alt="">`,book4:"<h3>What is Not Yours is Not Yours</h3>  <h4>by Helen Oyeyemi</h4>",book4des:`<p>The key to a house, the key to a heart, the key to a secret—Oyeyemi’s keys not only unlock elements of her characters’ lives, they promise further labyrinths on the other side. In “Books and Roses” one special key opens a library, a garden, and clues to at least two lovers’ fates. In “Is Your Blood as Red as This?” an unlikely key opens the heart of a student at a puppeteering school. “‘Sorry’ Doesn’t Sweeten Her Tea” involves a “house of locks,” where doors can be closed only with a key—with surprising, unobservable developments. And in “If a Book Is Locked There’s Probably a Good Reason for That Don't You Think,” a key keeps a mystical diary locked (for good reason).</p><p>Review by GoodReads</p>`,book4img:`<img src="WhatIsnot.jpg" alt="">`,book5:"<h3>Heartbreaker</h3>  <h4>by Maryse Meijer</h4>",book5des:"<p>In her debut story collection Heartbreaker, Maryse Meijer peels back the crust of normalcy and convention, unmasking the fury and violence we are willing to inflict in the name of love and loneliness. Her characters are a strange ensemble—a feral child, a girl raised from the dead, a possible pedophile—who share in vulnerability and heartache, but maintain an unremitting will to survive. Meijer deals in desire and sex, femininity and masculinity, family and girlhood, crafting a landscape of appetites threatening to self-destruct. In beautifully restrained and exacting prose, she sets the marginalized free to roam her pages and burn our assumptions to the ground.</p><p>Review by GoodReads</p>",book5img:`<img src="Heart.jpg" alt="">` }
+
+
+
+
+function Fetch(){
+  var b = localStorage.getItem("type2")
+var c = localStorage.getItem("type3")
+  var d = localStorage.getItem("type4")
+  if (b=="S" && c=="T" && d=="J") {
+var title = ISTJ.key('title')
+var b1 = ISTJ.key('book1')
+var b1d = ISTJ.key('book1des')
+var b1i = ISTJ.key('book1img')
+var b2 = ISTJ.key('book2')
+var b2d = ISTJ.key('book2des')
+var b2i = ISTJ.key('book2img')
+var b3 = ISTJ.key('book3')
+var b3d = ISTJ.key('book3des')
+var b3i = ISTJ.key('book3img')
+var b4 = ISTJ.key('book4')
+var b4d = ISTJ.key('book4des')
+var b4i = ISTJ.key('book4img')
+var b5 = ISTJ.key('book5')
+var b5d = ISTJ.key('book5des')
+var b5i = ISTJ.key('book5img')
+  } else if(b=="S" && c=="T" && d=="P"){
+    var title = ISTP.key('title')
+    var b1 = ISTP.key('book1')
+    var b1d = ISTP.key('book1des')
+    var b1i = ISTP.key('book1img')
+    var b2 = ISTP.key('book2')
+    var b2d = ISTP.key('book2des')
+    var b2i = ISTP.key('book2img')
+    var b3 = ISTP.key('book3')
+    var b3d = ISTP.key('book3des')
+    var b3i = ISTP.key('book3img')
+    var b4 = ISTP.key('book4')
+    var b4d = ISTP.key('book4des')
+    var b4i = ISTP.key('book4img')
+    var b5 = ISTP.key('book5')
+    var b5d = ISTP.key('book5des')
+    var b5i = ISTP.key('book5img')
+  }else if(b=="S" && c=="F" && d=="J"){
+    var title = ISFJ.key('title')
+    var b1 = ISFJ.key('book1')
+    var b1d = ISFJ.key('book1des')
+    var b1i = ISFJ.key('book1img')
+    var b2 = ISFJ.key('book2')
+    var b2d = ISFJ.key('book2des')
+    var b2i = ISFJ.key('book2img')
+    var b3 = ISFJ.key('book3')
+    var b3d = ISFJ.key('book3des')
+    var b3i = ISFJ.key('book3img')
+    var b4 = ISFJ.key('book4')
+    var b4d = ISFJ.key('book4des')
+    var b4i = ISFJ.key('book4img')
+    var b5 = ISFJ.key('book5')
+    var b5d = ISFJ.key('book5des')
+    var b5i = ISFJ.key('book5img')
+  }else if(b=="S" && c=="F" && d=="P"){
+    var title = ISFP.key('title')
+    var b1 = ISFP.key('book1')
+    var b1d = ISFP.key('book1des')
+    var b1i = ISFP.key('book1img')
+    var b2 = ISFP.key('book2')
+    var b2d = ISFP.key('book2des')
+    var b2i = ISFP.key('book2img')
+    var b3 = ISFP.key('book3')
+    var b3d = ISFP.key('book3des')
+    var b3i = ISFP.key('book3img')
+    var b4 = ISFP.key('book4')
+    var b4d = ISFP.key('book4des')
+    var b4i = ISFP.key('book4img')
+    var b5 = ISFP.key('book5')
+    var b5d = ISFP.key('book5des')
+    var b5i = ISFP.key('book5img')
+  }else if(b=="N" && c=="T" && d=="J"){
+    var title = INTJ.key('title')
+    var b1 = INTJ.key('book1')
+    var b1d = INTJ.key('book1des')
+    var b1i = INTJ.key('book1img')
+    var b2 = INTJ.key('book2')
+    var b2d = INTJ.key('book2des')
+    var b2i = INTJ.key('book2img')
+    var b3 = INTJ.key('book3')
+    var b3d = INTJ.key('book3des')
+    var b3i = INTJ.key('book3img')
+    var b4 = INTJ.key('book4')
+    var b4d = INTJ.key('book4des')
+    var b4i = INTJ.key('book4img')
+    var b5 = INTJ.key('book5')
+    var b5d = INTJ.key('book5des')
+    var b5i = INTJ.key('book5img')
+  }else if(b=="N" && c=="T" && d=="P"){
+
+  }else if(b=="N" && c=="F" && d=="J"){
+
+  }else if(b=="N" && c=="F" && d=="P"){
+
+  }
+};
