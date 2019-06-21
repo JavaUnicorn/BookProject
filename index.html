@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+ <head><link rel="stylesheet" href="./style.css">
+   <meta charset="utf-8">
+   <title></title>
+ </head>
+ <body>
+   <h1 class = "title">Find your personalized BOOK LIST!</h1>
+   <p class = "q1">1. Favorite world: Do you prefer to focus on the outer world or on your own inner world?</p>
+   <form action="/action_page.php">
+<input class="typeE" type="checkbox" name="coffee" value="extra">Extraversion (E)<br>
+<input class="typeI" type="checkbox" name="coffee" value="intro">Introversion (I)<br>
+<br>
+</form>
+     <p class = "q2">2.
+Information: Do you prefer to focus on the basic information you take in or do you prefer to interpret and add meaning?</p>
+<form action="/action_page.php">
+<input class="typeS" type="checkbox" name="coffee" value="sense">Sensing (S)<br>
+<input class="typeN" type="checkbox" name="coffee" value="intuit">Intuition (N)<br>
+<br>
+</form>
+<p class = "q3">3. Decisions: When making decisions, do you prefer to first look at logic and consistency or first look at the people and special circumstances?</p>
+<form action="/action_page.php">
+<input class="typeT" type="checkbox" name="coffee" value="thinking">Thinking (T)<br>
+<input class="typeF" type="checkbox" name="coffee" value="feeling">Feeling (F)<br>
+<br>
+</form>
+<p class = "q4">4. Structure: In dealing with the outside world, do you prefer to get things decided or do you prefer to stay open to new information and options?</p>
+<form action="/action_page.php">
+<input class="typeJ" type="checkbox" name="coffee" value="judging">Judging (J)<br>
+<input class="typeP" type="checkbox" name="coffee" value="percieving">Perceiving (P)<br>
+<br>
+</form>
+<p></p>
+<form><input class="button" type = "button" value = "Submit!" onclick = "window.location.href = 'index2.html'") /></form>
+<article class="enter"></article>
+<script src="https://www.googleapis.com/books/v1/volumes?q=flowers+inauthor:keyes&key=AIzaSyDjcPKwnTSOlTjfh0uM2cCUQO4a0x9FcQE"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+<script src="./main.js"></script>
+
+ </body>
+</html>

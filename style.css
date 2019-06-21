@@ -1,0 +1,100 @@
+body{
+ text-align:center;
+ background-color: #FFDAB9;
+ border: 8px solid black;
+ margin-left: 115px;
+ margin-right: 115px;
+ padding-bottom: 15px;
+}
+.title{
+  border: 5px solid black;
+    margin-left: 214px;
+    margin-right: 174px;
+    padding: 10px;
+    text-align: -webkit-center;
+    display: -webkit-box;
+    -webkit-box-align: center;
+    background: inherit;
+}
+.outer{
+ margin-right: 20px;
+ padding: 5px;
+}
+.inner{
+ margin-left: 20px;
+ padding: 5px;
+}
+.sensing{
+ margin-right: 12px;
+ padding: 5px;
+}
+.intuition{
+ margin-left: 12px;
+ padding: 5px;
+}
+.thinking{
+ margin-right: 16px;
+ padding: 5px;
+}
+.feeling{
+ margin-left: 16px;
+ padding: 5px;
+}
+.judging{
+ padding: 5px;
+}
+.percieving{
+ margin-left: 30px;
+ padding: 5px;
+}
+input{
+  margin-right: 6px;
+      padding: 15px;
+      font-size: 40px;
+      background: ghostwhite;
+      border-radius: 60px;
+}
+
+br{margin-right: 12px;
+padding: 5px;
+display: flex;}
+.body2{
+ text-align: center;
+ background-color:  #cce6ff;
+}
+.header{
+  border: 3px solid black;
+ margin-left: 133px;
+ margin-right: 143px;
+ padding: 10px;
+}
+img{
+ width: 400px;
+ height: 400px;
+ margin-bottom: 70px;
+}
+.results{
+ padding: 5px;
+}
+.content{
+width: 40%;
+margin-left: 25%;
+margin-right: 25%;
+display: inline-block;
+}
+.title2{
+ border: 3px solid black;
+ margin-left: 500px;
+ margin-right: 500px;
+ padding: 10px;
+}
+.body3{
+ border: 7px solid black;
+ text-align: center;
+ margin-left: 100px;
+ margin-right: 100px;
+ background-color: #FFDAB9;
+}
+section{
+ display: flex;
+}
